@@ -12,7 +12,11 @@ Insertion Sort Project given by patika.dev in Data Structures and Algorithms sec
 
 #### Big-O gösterimi : n(n+1)/2 O(n^2)
 
-Time Complexity: 1)Average case: Aradığımız sayının ortada olması. 2)Worst case: Aradığımız sayının sonda olması. 3)Best case: Aradığımız sayının dizinin en başında olması.
+Time Complexity: 
+
+1)Average case: Aradığımız sayının ortada olması. 
+2)Worst case: Aradığımız sayının sonda olması. 
+3)Best case: Aradığımız sayının dizinin en başında olması.
 
 Dizi sıralandıktan sonra 18 sayısı average case kapsaına girer.
 
